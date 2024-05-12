@@ -1,3 +1,5 @@
+## DATE: 18.04.2024
+## EXPERIMENT: 08
 # Implementation-of-K-Means-Clustering-for-Customer-Segmentation
 
 ## AIM:
